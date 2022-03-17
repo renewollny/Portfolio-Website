@@ -1,0 +1,19 @@
+.BigImage{
+    height: 100vh;
+    background: url("https://2.bp.blogspot.com/-wuL_MVnWsvU/VKmArE5tCEI/AAAAAAAAAqA/jryxGLn89r8/s1600/91mkB9Fx5bL.jpg");
+    background-size: cover;
+    position: relative;
+}
+.hero-text{
+    font-size: 4.5rem;
+    color: white;
+}
+
+.hero-desc{
+    font-size: 2.5rem;
+}
+
+.hero-div{
+    text-align: center;
+    color: greenyellow;
+}
